@@ -4,6 +4,8 @@ This repository contains programming assignments for Class. Each assignment fold
 
 ## 📁 Folder Structure
 
+Each folder corresponds to a specific assignment and contains five C programs.
+
 ## 📄 Description
 
 Each folder contains five C programs submitted as part of class assignments.
@@ -18,6 +20,12 @@ Each folder contains five C programs submitted as part of class assignments.
 - [Assignment6](./Assignment6) – Contains five C programs for the sixth assignment.
 - [Assignment7](./Assignment7) – Contains five C programs for the seventh assignment.
 - [Assignment8](./Assignment8) – Contains five C programs for the eighth assignment.
+- [Assignment9](./Assignment9) – Contains five C programs for the ninth assignment.
+- [Assignment10](./Assignment10) – Contains five C programs for the tenth assignment.
+- [Assignment11](./Assignment11) – Contains five C programs for the eleventh assignment.
+- [Assignment12](./Assignment12) – Contains five C programs for the twelfth assignment.
+- [Assignment13](./Assignment13) – Contains five C programs for the thirteenth assignment.
+- [Assignment14](./Assignment14) – Contains five C programs for the fourteenth assignment.
 
 ## 🧪 How to Compile and Run
 
